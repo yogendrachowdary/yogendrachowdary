@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogendra Chowdary</h1>
 <h3 align="center">A passionate Full Stack developer & Cloud Enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrachowdary&label=Profile%20views&color=0eb419&style=flat" alt="yogendrachowdary" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendrachowdary" alt="yogendrachowdary" /></a> </p>
-
 - 🔭 I’m currently working on [Car Rental Project](https://github.com/yogendrachowdary/CAR-RENTAL-DJANGO)
 
 - 🌱 I’m currently learning **React,NodeJS**
@@ -12,6 +7,11 @@
 - 💬 Ask me about **DJANGO,SQL**
 
 - 📫 How to reach me **yogendrachowdary101@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrachowdary&label=Profile%20views&color=0eb419&style=flat" alt="yogendrachowdary" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendrachowdary" alt="yogendrachowdary" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
