@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogendra Chowdary</h1>
 <h3 align="center">A passionate Full Stack developer & Cloud Enthusiast from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrachowdary&label=Profile%20views&color=0eb419&style=flat" alt="yogendrachowdary" /> </p>
+
 - 🔭 I’m currently working on [Car Rental Project](https://github.com/yogendrachowdary/CAR-RENTAL-DJANGO)
 
 - 🌱 I’m currently learning **React,NodeJS**
@@ -8,9 +11,7 @@
 
 - 📫 How to reach me **yogendrachowdary101@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrachowdary&label=Profile%20views&color=0eb419&style=flat" alt="yogendrachowdary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendrachowdary" alt="yogendrachowdary" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,4 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogendrachowdary&show_icons=true&bg_color=140505&hide_border=true&locale=en&layout=compact" alt="yogendrachowdary" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogendrachowdary&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="yogendrachowdary" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendrachowdary" alt="yogendrachowdary" /></a> </p>
+
 
