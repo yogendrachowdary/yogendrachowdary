@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendrachowdary&label=Profile%20views&color=0eb419&style=flat" alt="yogendrachowdary" /> </p>
 
-- 🔭 I’m currently working on [Car Rental Project](https://github.com/yogendrachowdary/CAR-RENTAL-DJANGO)
+- 🔭 I’m currently working on my coding skills
 
-- 🌱 I’m currently learning **React,NodeJS**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **DJANGO,SQL**
+- 💬 Ask me about **Web Developement & Cloud**
 
 - 📫 How to reach me **yogendrachowdary101@gmail.com**
 
